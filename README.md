@@ -1,6 +1,6 @@
 Welcome to Dahee's profile👋!
 ===================
-![dahee90522's github stats](https://github-readme-stats.vercel.app/api?username=dahee90522&show_icons=true&theme=calm)<br>
+![DAHEE's github stats](https://github-readme-stats.vercel.app/api?username=dahee90522&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dahee90522&layout=compact)](https://github.com/DAGGUDAGGU/daggu)<br>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=plastic&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:s2018s40@e-mirim.hs.kr)<br>
 <!--
