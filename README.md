@@ -1,10 +1,11 @@
 Welcome to Dahee's profile👋!
 ===================
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:s2018s40@e-mirim.hs.kr)
+[![dahee90522's github stats](https://github-readme-stats.vercel.app/api?username=dahee90522&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dahee90522&layout=compact)](https://github.com/DAGGUDAGGU/daggu)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=plastic&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:s2018s40@e-mirim.hs.kr)
 <!--
 **dahee90522/dahee90522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+flat-square
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
