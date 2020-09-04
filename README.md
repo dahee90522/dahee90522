@@ -1,7 +1,7 @@
 Welcome to Dahee's profile👋!
 ===================
 
-
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:s2018s40@e-mirim.hs.kr)
 <!--
 **dahee90522/dahee90522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
