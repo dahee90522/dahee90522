@@ -1,7 +1,7 @@
 Welcome to Dahee's profile👋!
 ===================
 <!--![DAHEE's github stats](https://github-readme-stats.vercel.app/api?username=dahee90522&bg_color=fff&title_color=000&text_color=333)<br>-->
-![DAHEE's github stats](https://github-readme-stats.vercel.app/api?username=dahee90522&bg_color=30,ff0000,904e95&title_color=fff&text_color=fff)<br>
+![DAHEE's github stats](https://github-readme-stats.vercel.app/api?username=dahee90522&bg_color=30,ff0000,ff0&title_color=fff&text_color=fff)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dahee90522&layout=compact)](https://github.com/hoppydream/hoppy)<br>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=plastic&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:s2018s40@e-mirim.hs.kr)<br>
 <!--
