@@ -1,4 +1,5 @@
-Welcome to Dahee's profile👋!
+<!-- Welcome to Dahee's profile👋! -->
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=read%20dahee&fontSize=90&animation=fadeIn)
 ===================
 <!--![DAHEE's github stats](https://github-readme-stats.vercel.app/api?username=dahee90522&bg_color=fff&title_color=000&text_color=333)<br>-->
 ![DAHEE's github stats](https://github-readme-stats.vercel.app/api?username=dahee90522&bg_color=30,434343,000000&title_color=fff&text_color=fff)<br>
