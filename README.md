@@ -1,11 +1,15 @@
-<div>
+<div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=read%20dahee&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=read%20dahee&fontSize=90&animation=fadeIn)
+
 </div>
 
+<div align="center">
 ##  안녕하세요
 ### 개발을 즐기기 위해 노력하는 프론트엔드 개발자 황다희입니다
 
+
+<br/>
 <br/>
 
 [![RESUME](https://img.shields.io/badge/-Resume-4285F4?style=flat-square&logo=star&logoColor=white)](https://dahee-portfolio.notion.site/Front-end-Developer-2b110d2e4ec542eda33fe5efef907bf4)
@@ -28,6 +32,7 @@
 
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)](https) [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html) [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)](https://www.oracle.com/kr/)
 
+<br/>
 <br/>
 
 ###  JavaScript
@@ -77,3 +82,4 @@
 <p align="left">  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?&style=flat-square&logo=html5&logoColor=white"/>  <img alt="SCSS" src="https://img.shields.io/badge/Sass-CC6699?&style=flat-square&logo=sass&logoColor=white"/>  <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?&style=flat-square&logo=typescript&logoColor=white"/>  <img alt="React" src="http://img.shields.io/badge/react%20-%2361DAFB?&style=flat-square&logo=react&logoColor=white"/></p><p align="left">  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />  <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?&style=flat-square&logo=redux&logoColor=white"/>  <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/>  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />    <img alt="cypress" src="https://img.shields.io/badge/cypress-3C3C3C?style=flat-square&logo=cypress&logoColor=white" />  <img alt="MUI" src="https://img.shields.io/badge/MUI-007ACC?style=flat-square&logo=MUI&logoColor=white" /></p>
 </details> -->
 <br/>
+</div>
