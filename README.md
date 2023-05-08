@@ -59,10 +59,11 @@
 <br/>
 
 ---
-
+<!-- 
 ![DAHEE's github stats](https://github-readme-stats.vercel.app/api?username=dahee90522&bg_color=ffffff&title_color=333&text_color=333)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dahee90522&layout=compact&title_color=333&text_color=333&icon-color=333)](https://github.com/hoppydream/hoppy)
+-->
 <!-- <details markdown="1" open><summary><strong>👩‍💻 Technologies & Tools</strong></summary>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dahee90522&layout=compact&title_color=333&text_color=333&icon-color=333)](https://github.com/hoppydream/hoppy)
